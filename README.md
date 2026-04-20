@@ -14,7 +14,8 @@ Tenho interesse em tecnologia, inovação e em tudo que envolve melhorar process
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/breno-levy/)
-
+* [Medium](https://medium.com/@brenolevy292)
+  
 ## Projetos:
 
 ...

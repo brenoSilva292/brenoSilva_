@@ -10,7 +10,7 @@ Atualmente, sou estudante de Data Science, área que tem ampliado ainda mais min
 
 Tenho interesse em tecnologia, inovação e em tudo que envolve melhorar processos e facilitar a vida das pessoas. Busco sempre entender o “porquê” das coisas, o que me ajuda a enxergar soluções de forma mais criativa e prática.
 
-**Background in:** Data Science.
+**Background in:** Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/breno-levy/)

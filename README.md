@@ -16,9 +16,9 @@ Tenho interesse em tecnologia, inovação e em tudo que envolve melhorar process
 * [LinkedIn](https://www.linkedin.com/in/breno-levy/)
 * [Medium](https://medium.com/@brenolevy292)
   
-## Projetos:
+# Projetos:
 
-ProUni 2020: (http://bit.ly/4tjPYKX)
+* ProUni 2020: http://bit.ly/4tjPYKX
 
 ---
 
